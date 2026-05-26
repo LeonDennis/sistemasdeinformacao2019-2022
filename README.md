@@ -10,3 +10,4 @@
 
 - Atividades complementares: Slides e apostila do Curso de Inclusão Digital para Idosos; Testes de programas Linux, C# e Android (Xamarin).
 - Linguagens de programação: Trabalhos práticos feitos ao longo do curso, utilizando C#, HTML, CSS, JS e Java.
+- Meu TCC do curso, sobre Vazamentos de dados (causas, efeitos, como se prevenir, exemplos de vazamentos, etc.)
